@@ -1,2 +1,2 @@
 # ATM-Project
-ATM project written in Python for Software Engineering.
+Group project was to make an ATM written in Python for Software Engineering class.
